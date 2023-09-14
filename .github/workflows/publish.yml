@@ -16,7 +16,7 @@ jobs:
         id: release
         with:
           release-type: node
-          package-name: otlp-generated
+          package-name: goodmetrics-generated
           bump-minor-pre-major: true
           prerelease: true
       # The logic below handles the npm publication:
