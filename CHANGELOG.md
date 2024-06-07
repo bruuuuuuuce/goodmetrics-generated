@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/bruuuuuuuce/goodmetrics-generated/compare/v0.1.0...v0.1.1) (2024-06-07)
+
+
+### Bug Fixes
+
+* semver grpc-js ([#11](https://github.com/bruuuuuuuce/goodmetrics-generated/issues/11)) ([1bbce02](https://github.com/bruuuuuuuce/goodmetrics-generated/commit/1bbce026b6d8569b390526ecdb16ebc109163d98))
+
 ## [0.1.0](https://github.com/bruuuuuuuce/goodmetrics-generated/compare/v0.0.3...v0.1.0) (2024-03-19)
 
 
