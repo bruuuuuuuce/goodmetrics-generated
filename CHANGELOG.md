@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/bruuuuuuuce/goodmetrics-generated/compare/v0.1.2...v0.1.3) (2026-09-19)
+
+
+### Bug Fixes
+
+* bump @types/node to Node 24 and drop unused @tsconfig/node16 ([#20](https://github.com/bruuuuuuuce/goodmetrics-generated/issues/20)) ([fc4a30d](https://github.com/bruuuuuuuce/goodmetrics-generated/commit/fc4a30d27081550a40befd72c412e8012cee98ca))
+
 ## [0.1.2](https://github.com/bruuuuuuuce/goodmetrics-generated/compare/v0.1.1...v0.1.2) (2026-09-19)
 
 
